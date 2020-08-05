@@ -1,0 +1,6 @@
+numpy.squeeze(a, axis=None): Remove single-dimensional entries from the shape of an array.
+numpy.argmax(a, axis=None, out=None): Returns the indices of the maximum values along an axis
+PlotLossesKeras: Animated fig for livelossplot tracking log-loss and accuracy
+ModelCheckpoint: Callback to save the Keras model or model weights at some frequency.
+confusion_matrix: Compute confusion matrix to evaluate the accuracy of a classification.(Each row of the matrix represents the instances 
+                  in a predicted class while each column represents the instances in an actual class (or vice versa).)
